@@ -1,0 +1,11 @@
+# Logs
+logs/
+*.log
+
+# macOS
+.DS_Store
+
+# Temp files
+*.swp
+*.tmp
+*.bak
