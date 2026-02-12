@@ -53,7 +53,7 @@ case "$ACTION" in
 add)
 
 [[ -z "$GROUP" ]] && usage
-if user_check "$2" ; then
+if user_check "$USER" ; then
 echo "USER EXISTS : $USER" >> "$FILE_DIR"
 exit 0
 fi
