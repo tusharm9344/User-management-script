@@ -1,4 +1,4 @@
-Here is your full README in one clean, big paragraph style — simple, direct, and written like you explained it yourself 👇
+
 
 ---
 
